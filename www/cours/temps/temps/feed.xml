@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:FA2E6AB4-6EDD-4092-85A1-5DF3B637399C</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-06-03T10:28:14+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:99D34E64-788C-45C7-BFCF-BBE4027E64E3</id>
+  <title>formation</title>
+  <title xmlns="urn:iweb:">formation</title>
+  <in-navbar xmlns="urn:iweb:">99D34E64-788C-45C7-BFCF-BBE4027E64E3</in-navbar>
+  <link rel="alternate" href="formation.html"/>
+  <updated>2010-06-03T10:28:14.001+02:00</updated>
+  <content>formation</content>
+ </entry>
+</feed>

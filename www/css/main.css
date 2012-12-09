@@ -1,0 +1,54 @@
+body, td {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  color: #F00;
+}
+
+.menuitem a, .menuitem p {
+  text-align: center;
+  vertical-align: center;
+  color: white;
+  font-family: Sylfaen;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.menuitem a:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+.waw-picture {
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+
+.text-box td {
+  width: 70%;
+  height: 350px;
+}
+
+.mission ul, .mission li {
+  list-style: none;
+}
+
+.text-box {
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  background-color: white;
+  font-size: 13px;
+  vertical-align: top;
+  text-align: center;
+  color: #555;
+  padding: 15px;
+}
+
+.training ul, .training li, .coaching ul, .coaching li {
+  text-align: left;
+  padding-left: 100px;
+  list-style-image: url('../images/tab_next.gif');
+}
+
+
+.footer p {
+
+}

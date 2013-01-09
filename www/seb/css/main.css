@@ -3,12 +3,12 @@ body, td {
   color: #F00;
 }
 
-.menuitem a, .menuitem p {
+menuitem a, p.menuitem {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   text-align: center;
   vertical-align: center;
   color: white;
-  font-family: Sylfaen;
-  font-size: 15px;
+  font-size: 14px;
   text-decoration: none;
 }
 
@@ -22,13 +22,14 @@ body, td {
   border-radius: 15px;
 }
 
-.text-box td {
+td.text-box {
   width: 70%;
   height: 350px;
 }
 
 .mission ul, .mission li {
   list-style: none;
+  text-align: left;
 }
 
 .text-box {
@@ -40,6 +41,14 @@ body, td {
   text-align: center;
   color: #555;
   padding: 15px;
+}
+
+.item-box {
+  font-size: 13px;
+  vertical-align: center;
+  text-align: left;
+  color: #555;
+  padding: 10px;
 }
 
 .training ul, .training li, .coaching ul, .coaching li {
@@ -57,6 +66,15 @@ p.tool,  div.tool {
   background-image: url('../images/fondtool.jpg');
 }*/
 
-.footer p {
+p.footer {
+  padding-top: 30px;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-size: 11px;
+  text-align: center;
+  color: #fff;
+}
 
+a {
+  color: #fff;
+  text-decoration: none;
 }
